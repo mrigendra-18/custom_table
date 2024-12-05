@@ -17,3 +17,33 @@ Font color and background color for headers and body.
 Navigate large datasets using a pagination component.
 5. Responsive Design
 The table layout adjusts seamlessly for different screen sizes.
+
+
+1 Clone the Repository
+
+```bash
+
+git clone https://github.com/mrigendra-18/custom-table.git
+cd custom-table
+```
+2 Install Dependencies
+
+```bash
+
+npm install
+```
+3 Run the Development Server
+```bash
+npm run dev
+```
+
+## Technologies Used
+React: UI component library.
+Vite: Fast build tool.
+CSS: Custom styles for components.
+
+
+## Future Improvements
+Column resizing and reordering.
+Server-side pagination or infinite scrolling.
+Dark/Light theme toggle.
